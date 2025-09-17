@@ -6,12 +6,12 @@
     "email": "anh.kt221878@sis.hust.edu.vn",
     "phone": "(849) 6863-1211",
     "url": "https://theanh9604.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A final-year student in Electrical Engineering",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
+      "address": "A1 Vinhomes Gardenia, Ham Nghi St.",
+      "postalCode": "100000",
+      "city": "Hanoi",
+      "countryCode": "VN",
       "region": "California"
     },
     "profiles": [
@@ -47,15 +47,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Hanoi University of Science and Technology, Hanoi, Vietnam",
+      "location": "Hanoi, Vietnam",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Electrical Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2022-09-01",
+      "endDate": "2026-02-01",
+      "score": "3.55/4.00"
     }
   ],
   "awards": [
