@@ -21,12 +21,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a final-year student in Electrical Engineering - Power System in Hanoi University of Science and Technology where I'm fortunate to be advised by Prof. Huy Nguyen-Duc. I will graduate in February 2026. I'm looking for opportunities in Graduate Program in Australia and USA. My research focus on Microgrid Operational Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
+I'm a final-year student in Electrical Engineering - Power System in Hanoi University of Science and Technology where I'm fortunate to be advised by Prof. Huy Nguyen-Duc. I will graduate in March 2026. I'm looking for opportunities in Graduate Program in Australia and USA. My research focus on Microgrid Operational Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
 
-My Bachelor Thesis is Oscillation source detection in Power System, simulating on ANDES Power System in Python.
+My Bachelor Thesis is Implementing Frequency Constraints for Unit Commitment problem in Vietnam National Grid, optimization model on PyPSA in Python and simulating to verify on PSS/E.
 
