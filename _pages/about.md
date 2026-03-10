@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hust.edu.vn/en/'>HUST</a>
+subtitle: <a href='https://engineering.purdue.edu/~kekatos/index.html'>Purdue University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HUST, Hanoi, Vietnam</p>
-    <p>anh.kt221878@sis.hust.edu.vn</p>
+    <p>Purdue University</p>
+    <p>West Lafayette, Indiana, USA</p>
+    <p>kieut@purdue.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a final-year student in Electrical Engineering - Power System in Hanoi University of Science and Technology. being advised by Assoc. Prof. Huy Nguyen-Duc. I will graduate in March 2026. I'm looking for opportunities in Graduate Program in Australia and USA. My research focus on Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
+I'm a first year Ph.D. student in Electrical and Computer Engineering (ECE) in The Elmore Family School of Electrical and Computer Engineering, Purdue University. being advised by Assoc. Prof. Vassilis Kekatos. I received my Bachelor Degree in Hanoi University of Science and Technology in January 2026. My research focus on Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
 
-My Bachelor Thesis is Implementing Frequency Constraints for Unit Commitment problem in Vietnam National Grid, optimization model on PyPSA in Python and simulating to verify on PSS/E.
+My Bachelor Thesis is Chance-Constrained Unit Commitment for Vietnam Power System by 2030 under Renewable Energy Uncertainty.
 
 
-[GitHub](https://github.com/theanh9604) | [LinkedIn](https://www.linkedin.com/in/theanhkieu) | [Google Scholar](https://scholar.google.com/citations?user=TmVz_a4AAAAJ&hl=vi) | [Email](mailto:anh.kt221878@sis.hust.edu.com)
+[GitHub](https://github.com/theanh9604) | [LinkedIn](https://www.linkedin.com/in/theanhkieu) | [Google Scholar](https://scholar.google.com/citations?user=TmVz_a4AAAAJ&hl=vi) | [Email](mailto:kieut@purdue.edu)
