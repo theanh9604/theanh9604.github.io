@@ -6,7 +6,7 @@ subtitle: <a href='https://engineering.purdue.edu/~kekatos/index.html'>Purdue Un
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ava1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Purdue University</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a first year Ph.D. student in Electrical and Computer Engineering (ECE) in The Elmore Family School of Electrical and Computer Engineering, Purdue University. being advised by Assoc. Prof. Vassilis Kekatos. I received my Bachelor Degree in Hanoi University of Science and Technology in January 2026. My research focus on Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
+I'm a first year Ph.D. student in Electrical and Computer Engineering (ECE) in The Elmore Family School of Electrical and Computer Engineering, Purdue University, being advised by Assoc. Prof. Vassilis Kekatos. I received my Bachelor Degree in Hanoi University of Science and Technology in January 2026. My research focus on Optimization, Power System Dynamic Stability, Renewable Energy Sources. 
 
 My Bachelor Thesis is Chance-Constrained Unit Commitment for Vietnam Power System by 2030 under Renewable Energy Uncertainty.
 
